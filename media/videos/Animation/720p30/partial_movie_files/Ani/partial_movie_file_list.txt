@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Steff/Documents/GitHub/MED7_AV_Animation/media/videos/Animation/720p30/partial_movie_files/Ani/1342159004_2282655349_618844514.mp4'
-file 'file:C:/Users/Steff/Documents/GitHub/MED7_AV_Animation/media/videos/Animation/720p30/partial_movie_files/Ani/1353618911_398514950_84286209.mp4'
