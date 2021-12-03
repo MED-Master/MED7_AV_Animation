@@ -1,3 +1,3 @@
 # MED7_AV_Animation
 
-Test 
+Read and follow this guide before running the project.
